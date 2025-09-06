@@ -18,12 +18,9 @@ While the dataset is randomized and not suited for deep analysis, this project h
 - Navigating HTML with BeautifulSoup
 - Handling multiple pages of results
 - Transforming raw scraped values into structured, analyzable data
-<<<<<<< HEAD
 
 ## Tools Used
 
 - Python
 - requests, pandas, BeautifulSoup
 - Jupyter Notebook
-=======
->>>>>>> 7090c5c569d003a446d87f5016c75c26af87c0c7
