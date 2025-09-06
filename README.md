@@ -1,4 +1,4 @@
-# Web Scraping Practice - Books to Scrape
+# Books to Scrape - Simple Web Scraping Practice
 
 This is a beginner-friendly exercise to practice web scraping and data wrangling.
 
@@ -18,3 +18,9 @@ While the dataset is randomized and not suited for deep analysis, this project h
 - Navigating HTML with BeautifulSoup
 - Handling multiple pages of results
 - Transforming raw scraped values into structured, analyzable data
+
+## Tools Used
+
+- Python
+- requests, pandas, BeautifulSoup
+- Jupyter Notebook
