@@ -13,14 +13,17 @@ Data collected per book:
 
 The data was cleaned and stored in a Pandas DataFrame for basic exploration.
 
-While the dataset is randomized and not suited for deep analysis, this project helped practice:
+While the dataset is randomized and not suited for deep analysis, this project helped me practice:
 
 - Navigating HTML with BeautifulSoup
 - Handling multiple pages of results
 - Transforming raw scraped values into structured, analyzable data
+<<<<<<< HEAD
 
 ## Tools Used
 
 - Python
 - requests, pandas, BeautifulSoup
 - Jupyter Notebook
+=======
+>>>>>>> 7090c5c569d003a446d87f5016c75c26af87c0c7
